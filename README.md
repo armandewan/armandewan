@@ -46,8 +46,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandewan&layout=compact&theme=radical)  
 
 ## 📢 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](your-twitter-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/md-arman-dewan)  
 
 ---
 

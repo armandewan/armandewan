@@ -9,7 +9,7 @@
 - 🌱 **Currently Learning:** Advanced React patterns, TypeScript  
 - 💡 **Looking to Collaborate On:** MERN-based projects & web development challenges  
 - 💬 **Ask me about:** JavaScript, React, Node.js, MongoDB  
-- 📫 **How to reach me:** [Your LinkedIn](your-linkedin-url) | [Your Email](your-email)  
+- 📫 **How to reach me:** [Your LinkedIn](your-linkedin-url) | [Your Email](mdarmandewan88@gmail.com)  
 
 ## 🛠 Tech Stack  
 **Frontend:** React.js, HTML, CSS, JavaScript  
@@ -42,8 +42,8 @@
 ###
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=armandewan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandewan&layout=compact&theme=radical)  
 
 ## 📢 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  

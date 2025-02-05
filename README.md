@@ -4,13 +4,18 @@
 
 <p align="left">I'm Arman Dewan, a passionate Full-Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. As a MERN developer, I enjoy building dynamic web applications and constantly learning new technologies.</p>
 
-###
+## 🚀 About Me  
+- 🔭 **Currently Working On:** MERN projects & open-source contributions  
+- 🌱 **Currently Learning:** Advanced React patterns, TypeScript  
+- 💡 **Looking to Collaborate On:** MERN-based projects & web development challenges  
+- 💬 **Ask me about:** JavaScript, React, Node.js, MongoDB  
+- 📫 **How to reach me:** [Your LinkedIn](your-linkedin-url) | [Your Email](your-email)  
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Tech Stack:<br><br>Frontend: React.js, HTML, CSS, JavaScript<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Tools: Git, GitHub, VS Code, Postman</p>
+## 🛠 Tech Stack  
+**Frontend:** React.js, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code, Postman 
 
 ###
 
